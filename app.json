@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "RNAnimation",
+    "slug": "RNAnimation",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
